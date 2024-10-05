@@ -33,7 +33,7 @@ The User Details Management Application is designed to provide a user-friendly i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/im Yusufakhtar/user-details-app.git
+   git clone https://github.com/imyusufakhtar/user-details-app.git
    cd user-details-app
    ```
 
